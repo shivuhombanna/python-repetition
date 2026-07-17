@@ -39,10 +39,10 @@
 #     return int(num)**4
 # a=100
 # b= a + funk(4)
-# print(b)
-# # lambda function
-# duble= lambda c:c*2
-# print(duble(677 ))
+ print(b)
+# lambda function
+duble= lambda c:c*2
+ print(duble(677 ))
 
 def factorial(n):
     if n==1:

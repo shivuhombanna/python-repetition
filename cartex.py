@@ -29,9 +29,9 @@
 #             print(f"{amount} is Deposit success fully ")
 #             print(f"total amount is {balance}")
 
-#     else:
-#         print("Thank you for visiting banking suystem")
-#         break
+   else:
+        print("Thank you for visiting banking suystem")
+break
 cart={}
 total=0
 

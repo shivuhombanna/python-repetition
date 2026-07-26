@@ -6,6 +6,7 @@ class Human:
         print(f"{self.name} plying a football")
 s=Human("shivu",787)
 s.activity()
+
 papu=Human()
 papu.name="shivi"
 papu.activity()

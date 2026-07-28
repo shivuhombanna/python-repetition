@@ -10,6 +10,7 @@ while teket>0:
             print("booking are alrady complited@@")
             break
     else:
+        
         print("not availabal in setes !")
 print("sorry all seat are booked ")
 

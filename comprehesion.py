@@ -1,4 +1,4 @@
-# #dictionares FUNCTIO
+# #dictionares FUNCTIO i
 l={"shivani":55,"shivaraj":67,"rahul":67,"e2e":77}
 for student,marks in l.items():
     print(f"{student}-----{marks}")

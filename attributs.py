@@ -8,4 +8,5 @@ bmw=Cars("BMW","M4 CS compitaion ")
 bmw.cars_info()
 toyota=Cars("forchunar","4*4 drive")
 toyota.cars_info()
+
 print(f"total ")

@@ -4,11 +4,9 @@ class Stdent:
     def get_name(self):
         return self.__name
     def set_name(self,name):
-        self.__name=name
-    
+        self.__name=name 
 s=Stdent('shiva')
 print(f"name:{s.get_name()}"
-
 super()
 
 class Animal:

@@ -2,7 +2,7 @@ teket=50
 while teket>0:
     print(f"availabal {teket}")
     booking=input("enter your booking (yes/no)").lower()
-
+#function 
     if booking =="yes":
         teket -=1
         print("you are booking is Don")
